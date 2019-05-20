@@ -1,6 +1,4 @@
-<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 15px; height: 80px">
-
-# Ames, Iowa Housing: Data Analysis and Recommendations
+# Ames, Iowa Housing: Data Cleaning, Feature Engineering, Predictions, and Kaggle Competition
 
 # Problem Statement
 
@@ -17,12 +15,6 @@ The importance of proper data cleaning, munging, wrangling, manipulation cannot 
 # Contents:
 
 - [Data Dictionary](#Data-Dictionary)
-- [Import All Relevent Libraries](#Import-All-Relevant-Libraries)
-- [Load Our Data](#Load-Our-Data)
-- [Initial Data Cleaning and Munging](#Initial-Data-Cleaning-And-Munging)
-- [Addressing Null Values](#Addressing-Null-Values)
-- [Feature Engineering](#Feature-Engineering)
-- [Modelling and Fitting](#Modelling-and-Fitting)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ## Data Dictionary
